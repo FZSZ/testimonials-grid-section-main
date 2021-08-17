@@ -77,7 +77,7 @@ body {
   background-image: url('images/bg-pattern-quotation.svg');
   background-position: 90% top;
   background-repeat: no-repeat;
-  background-size: 30%;
+  background-size: 35%;
 }
 /* background color */
 .card:nth-child(1) {

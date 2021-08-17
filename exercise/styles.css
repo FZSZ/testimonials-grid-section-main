@@ -139,6 +139,9 @@ body {
 }
 /* grid desktop */
 @media screen and (min-width: 930px) {
+  .cards > *:focus {
+    background-size: 20%;
+  }
   .card {
     min-width: 100%;
     grid-column: span 8;

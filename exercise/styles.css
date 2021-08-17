@@ -30,6 +30,8 @@ body {
 }
 #container {
   min-height: 100vh;
+  display: grid;
+  align-items: center;
   background-color: var(--Light-grayish-blue);
 }
 .grid {

@@ -89,9 +89,6 @@ body {
   grid-template-columns: repeat(12, 1fr);
   gap: 1rem;
 }
-.cards {
-  margin: 1rem;
-}
 /* grid mobile */
 /* card style */
 .card {

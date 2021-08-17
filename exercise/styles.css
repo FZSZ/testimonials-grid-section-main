@@ -81,6 +81,10 @@ body {
   background-repeat: no-repeat;
   background-size: 35%;
 }
+.card:nth-child(1) .profile img,
+.card:nth-child(4) .profile img{
+  border: 2px solid hsla(263, 55%, 52%, 0.7);
+}
 /* background color */
 .card:nth-child(1) {
   background-color: var(--Moderate-violet);
